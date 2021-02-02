@@ -1,0 +1,5 @@
+Student ID: 1952968
+
+Student Name: Nguyễn Minh Tâm
+
+Passed: 2/100
